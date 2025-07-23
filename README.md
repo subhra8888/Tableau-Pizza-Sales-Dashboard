@@ -83,7 +83,7 @@ This project involved the following steps:
 ![Final View](https://github.com/subhra8888/Tableau-Pizza-Sales-Dashboard/blob/main/Top%205%20%26%20Bottom%205.png)
 
 * **Pizza Performance Snapshot**  
-![Hourly Trend](https://github.com/your-username/pizza-sales-dashboard/blob/main/images/hourly-trend.png)
+![Hourly Trend](https://github.com/subhra8888/Tableau-Pizza-Sales-Dashboard/blob/main/Pizza%20Performance%20Snapshot.png)
 
 * **Weekly Trend View**  
 ![Weekly Trend](https://github.com/your-username/pizza-sales-dashboard/blob/main/images/weekly-trend.png)
