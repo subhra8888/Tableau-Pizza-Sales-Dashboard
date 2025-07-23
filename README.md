@@ -49,4 +49,48 @@ This project involved the following steps:
   * Highlights popular items that drive business performance  
 
 ### 📉 Bottom Performers  
-* **Bottom 5 Sellers** – Bar*
+* **Bottom 5 Sellers** – Bar chart  
+  * Based on **Revenue**, **Total Quantity**, and **Total Orders**  
+  * Identifies underperforming or less preferred pizza options  
+
+## 📈 Key Insights  
+
+### ⏰ Busiest Hours & Weeks  
+* **Hours:** Peak orders occur from **12 PM to 1 PM** and **4 PM to 7 PM**  
+* **Weeks:** Highest activity observed during the **48th week** of the year (December)  
+
+### 📊 Sales Performance  
+* **Top Category:** `Classic` pizzas contribute most to **Total Sales**, **Orders**, and **Pizzas Sold**  
+* **Top Size:** `Large` size dominates **Total Sales**
+
+### 🥇 Top 5 Pizzas  
+* **Revenue:** Thai Chicken Pizza  
+* **Quantity:** Classic Deluxe Pizza  
+* **Orders:** Classic Deluxe Pizza  
+
+### 🥉 Bottom 5 Pizzas  
+* **Revenue:** Brie Carre Pizza  
+* **Quantity:** Brie Carre Pizza  
+* **Orders:** Brie Carre Pizza  
+
+## 📂 Dataset  
+> [Click here to access the Pizza Sales Dataset](https://your-dataset-link-here.com)  
+*(Replace with your dataset download or Tableau Public link)*
+
+## 🖼️ Dashboard Screenshots  
+> Replace the image links below with actual screenshots from your dashboard.
+
+* **Final Dashboard View**  
+![Final View](https://github.com/your-username/pizza-sales-dashboard/blob/main/images/final-dashboard.png)
+
+* **Hourly Trend View**  
+![Hourly Trend](https://github.com/your-username/pizza-sales-dashboard/blob/main/images/hourly-trend.png)
+
+* **Weekly Trend View**  
+![Weekly Trend](https://github.com/your-username/pizza-sales-dashboard/blob/main/images/weekly-trend.png)
+
+* **Category & Size Pie Charts**  
+![Category Pie](https://github.com/your-username/pizza-sales-dashboard/blob/main/images/category-size.png)
+
+* **Top 5 & Bottom 5 Pizzas**  
+![Top Bottom Pizzas](https://github.com/your-username/pizza-sales-dashboard/blob/main/images/top-bottom-pizzas.png)
