@@ -80,7 +80,7 @@ This project involved the following steps:
 > Replace the image links below with actual screenshots from your dashboard.
 
 * **Final Dashboard View**  
-![Final View](https://github.com/subhra8888/Tableau-Pizza-Sales-Dashboard/blob/main/Top%205%20%26%20Bottom%205.png)
+![Final View](https://github.com/subhra8888/Tableau-Pizza-Sales-Dashboard/blob/main/Final%20Report%20View.png)
 
 * **Pizza Performance Snapshot**  
 ![Hourly Trend](https://github.com/subhra8888/Tableau-Pizza-Sales-Dashboard/blob/main/Pizza%20Performance%20Snapshot.png)
