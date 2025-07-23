@@ -74,7 +74,8 @@ This project involved the following steps:
 * **Orders:** Brie Carre Pizza  
 
 ## 📂 Dataset  
-> [Click here to access the Pizza Sales Dataset](https://github.com/subhra8888/Tableau-Pizza-Sales-Dashboard/blob/main/pizza_sales.csv) 
+> [Click here to access the Pizza Sales Dataset](https://your-dataset-link-here.com)  
+*(Replace with your dataset download or Tableau Public link)*
 
 ## 🖼️ Dashboard Screenshots  
 > Replace the image links below with actual screenshots from your dashboard.
