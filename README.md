@@ -82,12 +82,6 @@ This project involved the following steps:
 * **Final Dashboard View**  
 ![Final View](https://github.com/subhra8888/Tableau-Pizza-Sales-Dashboard/blob/main/Final%20Report%20View.png)
 
-* **Pizza Performance Snapshot**  
-![Hourly Trend](https://github.com/subhra8888/Tableau-Pizza-Sales-Dashboard/blob/main/Pizza%20Performance%20Snapshot.png)
-
-* **Weekly Trend View**  
-![Weekly Trend](https://github.com/your-username/pizza-sales-dashboard/blob/main/images/weekly-trend.png)
-
 * **Category & Size Pie Charts**  
 ![Category Pie](https://github.com/your-username/pizza-sales-dashboard/blob/main/images/category-size.png)
 
